@@ -1,0 +1,703 @@
+{
+    "skip":"Skip",
+    "@skip": {
+        "description": "Skip"
+    },
+    "welcome": "Welcome",
+    "@welcome": {
+        "description": "The current Language"
+    },
+    "userNameOrPhoneNumber": "User Name or Phone Number",
+    "@userNameOrPhoneNumber": {
+        "description": "Login text"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Password"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Login"
+    },
+    "forgotPassword": "Forgot Password?",
+    "@forgotPassword": {
+        "description": "Forgot Password?"
+    },
+    "notAMember": "Not a member? ",
+    "@notAMember": {
+        "description": "Not a member? "
+    },
+    "registerNow": "Register Now",
+    "@registerNow": {
+        "description": "Register Now"
+    },
+    "discoverYourPassion": "Discover Your Passion",
+    "@discoverYourPassion": {
+        "description": "Discover Your Passion"
+    },
+    "signup": "Sign up",
+    "@signup": {
+        "description": "Sign up"
+    },
+    "createAnAccount": "Create an account to get started",
+    "@createAnAccount": {
+        "description": "Create an account to get started"
+    },
+    "firstName": "First Name",
+    "@firstName": {
+        "description": "First Name"
+    },
+    "lastName": "Last Name",
+    "@lastName": {
+        "description": "Last Name"
+    },
+    "userName": "User Name",
+    "@userName": {
+        "description": "User Name"
+    },
+    "email": "user@gmail.com",
+    "@email": {
+        "description": "user@gmail.com"
+    },
+    "emailAddress": "Email Address",
+    "@emailAddress": {
+        "description": "Email Address"
+    },
+    "phone": "Phone",
+    "@phone": {
+        "description": "Phone"
+    },
+    "createPassword": "Create a Password",
+    "@createPassword": {
+        "description": "Create a Password"
+    },
+    "confirmPassword": "Confirm Password",
+    "@confirmPassword": {
+        "description": "Confirm Password"
+    },
+    "agreeTo": "I've read and agree with the",
+    "@agreeTo": {
+        "description": "I've read and agree with the"
+    },
+    "termsAndConditions": "Terms & Conditions",
+    "@termsAndConditions": {
+        "description": "Terms & Conditions"
+    },
+    "andThe": " and the ",
+    "@andThe": {
+        "description": " and the "
+    },
+    "privacyPolicy": "Privacy Policy.",
+    "@privacyPolicy": {
+        "description": "Privacy Policy."
+    },
+    "agreed": "",
+    "@agreed": {
+        "description": ""
+    },
+    "register": "Register",
+    "@register": {
+        "description": "Register"
+    },
+    "alreadyHaveAccount": "Already have an account? ",
+    "@alreadyHaveAccount": {
+        "description": "Already have an account? "
+    },
+    "signin": "Sign in",
+    "@signin": {
+        "description": "Sign in"
+    },
+    "forgotPasswordTitle": "Forgot Password",
+    "@forgotPasswordTitle": {
+        "description": "Forgot Password"
+    },   
+    "enterYourNumber": "Enter your Number",
+    "@enterYourNumber": {
+        "description": "Enter your Number"
+    },
+    "enterConfirmation": "Enter",
+    "@enterConfirmation": {
+        "description": "Enter"
+    },
+    "confirmationCode": "Confirmation Code",
+    "@confirmationCode": {
+        "description": "Confirmation Code"
+    },
+    "fourDigitCode": "A 4-digit code was sent to",
+    "@fourDigitCode": {
+        "description": "A 4-digit code was sent to"
+    },
+    "sent": "",
+    "@sent": {
+        "description": ""
+    },
+    "resendCode": "Resend code",
+    "@resendCode": {
+        "description": "Resend code"
+    },
+    "continueBtn": "Continue",
+    "@continueBtn": {
+        "description": "Continue"
+    },
+    "otpSent": "OTP Code sent to your phone!",
+    "@otpSent": {
+        "description": "OTP Code sent to your phone!"
+    },
+    "loading": "Loading",
+    "@loading": {
+        "description": "Loading"
+    },
+    "registeringYou": "Registering you",
+    "@registeringYou": {
+        "description": "Registering you"
+    },
+    "loggingIn": "Logging In",
+    "@loggingIn": {
+        "description": "Logging In"
+    },
+    "loggedOutSuccessfully": "Logged Out Successfully",
+    "@loggedOutSuccessfully": {
+        "description": "Logged Out Successfully"
+    },
+    "verifyingOTP": "Verifying OTP",
+    "@verifyingOTP": {
+        "description": "Verifying OTP"
+    },
+    "submitting": "Submitting",
+    "@submitting": {
+        "description": "Submitting"
+    },
+    "resetSuccessful": "Password Reset Successful!",
+    "@resetSuccessful": {
+        "description": "Password Reset Successful!"
+    },
+    "resetPassword": "Reset Password",
+    "@resetPassword": {
+        "description": "Reset Password"
+    },
+    "newPassword": "New Password",
+    "@newPassword": {
+        "description": "New Password"
+    },
+    "emptyFirstName": "Please enter your First name",
+    "@emptyFirstName": {
+        "description": "Please enter your First name"
+    },
+    "emptyLastName": "Please enter your Last name",
+    "@emptyLastName": {
+        "description": "Please enter your Last name"
+    },
+    "emptyUserName": "Please enter a UserName",
+    "@emptyUserName": {
+        "description": "Please enter a UserName"
+    },
+    "emptyEmail": "Please enter your Email Address",
+    "@emptyEmail": {
+        "description": "Please enter your Email Address"
+    },
+    "invalidEmail": "Please enter a valid Email Address",
+    "@invalidEmail": {
+        "description": "Please enter a valid Email Address"
+    },
+    "emptyPhone": "Please enter your Phone Number",
+    "@emptyPhone": {
+        "description": "Please enter your Phone Number"
+    },
+    "invalidPhone": "Please enter a valid Phone Number",
+    "@invalidPhone": {
+        "description": "Please enter a valid Phone Number"
+    },
+    "emptyUserNamePassword": "Please enter your Username or Phone Number",
+    "@emptyUserNamePassword": {
+        "description": "Please enter your Username or Phone Number"
+    },
+    "emptyPassword": "Please enter a password",
+    "@emptyPassword": {
+        "description": "Please enter a password"
+    },
+    "yourPassword": "Please enter your password",
+    "@yourPassword": {
+        "description": "Please enter your password"
+    },
+    "shortPassword": "Your Password must be at least 8 characters",
+    "@shortPassword": {
+        "description": "Your Password must be at least 8 characters"
+    },
+    "invalidPassword": "Your Password doesn't match",
+    "@invalidPassword": {
+        "description": "Your Password doesn't match"
+    },
+    "emptyConfirm": "Please confirm your Password",
+    "@emptyConfirm": {
+        "description": "Please confirm your Password"
+    },
+    "termNotAgreed": "You need to read and agree to our Terms",
+    "@termNotAgreed": {
+        "description": "You need to read and agree to our Terms"
+    },
+    "emptyNewPwd": "Please enter new Password",
+    "@emptyNewPwd": {
+        "description": "Please enter new Password"
+    },
+    "emptyConfirmNewPwd": "Please confirm your New Password",
+    "@emptyConfirmNewPwd": {
+        "description": "Please confirm your New Password"
+    },
+    "emptyCurrentPwd": "Please enter your Current Password",
+    "@emptyCurrentPwd": {
+        "description": "Please enter your Current Password"
+    },
+    "emptyDob": "Please fill in your date of birth.",
+    "@emptyDob": {
+        "description": "Please fill in your date of birth."
+    },
+    "emptySex": "Please select your sex.",
+    "@emptySex": {
+        "description": "Please select your sex."
+    },
+    "pwdChangedSuccessfully": "Password Changed Successfully",
+    "@pwdChangedSuccessfully": {
+        "description": "Password changed Successfully."
+    },
+    "customizeYourProfile": "Customize Your Profile",
+    "@customizeYourProfile": {
+        "description": "Customize Your Profile"
+    },
+    "dd": "DD",
+    "@dd": {
+        "description": "DD"
+    },
+    "mm": "MM",
+    "@mm": {
+        "description": "MM"
+    },
+    "yyyy": "YYYY",
+    "@yyyy": {
+        "description": "YYYY"
+    },
+    "accountCreated": "Account Created Successfully!",
+    "@accountCreated": {
+        "description": "Account Created Successfully!"
+    },
+    "addProfilePicture": "Add profile picture and Date of Birth",
+    "@addProfilePicture": {
+        "description": "Add profile picture and Date of Birth"
+    },
+    "chooseProfile": "Choose Profile",
+    "@chooseProfile": {
+        "description": "Choose Profile"
+    },
+    "select": "Select",
+    "@select": {
+        "description": "Select"
+    },
+    "dateOfBirth": "Date of Birth",
+    "@dateOfBirth": {
+        "description": "Date of Birth"
+    },
+    "sex": "Sex",
+    "@sex": {
+        "description": "Sex"
+    },
+    "male": "Male",
+    "@male": {
+        "description": "Male"
+    },
+    "female": "Female",
+    "@female": {
+        "description": "Female"
+    },
+    "profilePage": "Profile Page",
+    "@profilePage": {
+        "description": "Profile Page"
+    },
+    "emptyProfile": "Please select a profile picture",
+    "@emptyProfile": {
+        "description": "Please select a profile picture"
+    },
+    "personalizeYour": "Personalize your",
+    "@personalizeYour": {
+        "description": "Personalize your"
+    },
+    "experience": "Experience",
+    "@experience": {
+        "description": "Experience"
+    },
+    "chooseYourInterests": "Choose your interests",
+    "@chooseYourInterests": {
+        "description": "Choose your interests"
+    },
+    "select3Categories": "Select at least 3 Categories",
+    "@select3Categories": {
+        "description": "Select at least 3 Categories"
+    },
+    "selectAtLeast": "Select at least",
+    "@selectAtLeast": {
+        "description": "Select at least"
+    },
+    "threeCategories": "3 Categories",
+    "@threeCategories": {
+        "description": "3 Categories"
+    },
+    "pleaseSelect3Categories": "Please select at least 3 Categories",
+    "@pleaseSelect3Categories": {
+        "description": "Please select at least 3 Categories"
+    },
+    "finish": "Finish",
+    "@finish": {
+        "description": "Finish"
+    },
+    "goodMorning": "Good Morning",
+    "@goodMorning": {
+        "description": "Good Morning"
+    },
+    "goodAfternoon": "Good Afternoon",
+    "@goodAfternoon": {
+        "description": "Good Afternoon"
+    },
+    "goodEvening": "Good Evening",
+    "@goodEvening": {
+        "description": "Good Evening"
+    },
+    "forYou": "For you",
+    "@forYou": {
+        "description": "For you"
+    },
+    "continueTitle": "Continue",
+    "@continueTitle": {
+        "description": "Continue"
+    },
+    "watching": "Watching",
+    "@watching": {
+        "description": "Watching"
+    },
+    "myCourses": "My Courses",
+    "@myCourses": {
+        "description": "My Courses"
+    },
+    "courseBundles": "Course Bundles",
+    "@courseBundles": {
+        "description": "Course Bundles"
+    },
+    "popularCourses": "Popular Courses",
+    "@popularCourses": {
+        "description": "Popular Courses"
+    },
+    "popular": "Popular",
+    "@popular": {
+        "description": "Popular"
+    },
+    "courses": "Courses",
+    "@courses": {
+        "description": "Courses"
+    },
+    "categories": "Categories",
+    "@categories": {
+        "description": "Categories"
+    },
+    "bundles": "Bundles",
+    "@bundles": {
+        "description": "Bundles"
+    },
+    "home": "Home",
+    "@home": {
+        "description": "Home"
+    },
+    "browse": "Browse",
+    "@browse": {
+        "description": "Browse"
+    },
+    "account": "Account",
+    "@account": {
+        "description": "Account"
+    },
+    "lessons": "Lessons",
+    "@lessons": {
+        "description": "Lessons"
+    },
+    "description": "Description",
+    "@description": {
+        "description": "Description"
+    },
+    "lesson": "Lesson",
+    "@lesson": {
+        "description": "Lesson"
+    },
+    "min": "min",
+    "@min": {
+        "description": "min"
+    },
+    "relatedCourses": "Related Courses",
+    "@relatedCourses": {
+        "description": "Related Courses"
+    },
+    "related": "Related",
+    "@related": {
+        "description": "Related"
+    },
+    "instructors": "Instructors",
+    "@instructors": {
+        "description": "Instructors"
+    },
+    "reference": "Reference",
+    "@reference": {
+        "description": "Reference"
+    },
+    "slides": "Slides",
+    "@slides": {
+        "description": "Slides"
+    },
+    "biography": "Biography",
+    "@biography": {
+        "description": "Biography"
+    },
+    "ye": "",
+    "@ye": {
+        "description": ""
+    },
+    "yearsOfExperience": " Years of Experience",
+    "@yearsOfExperience": {
+        "description": " Years of Experience"
+    },
+    "profession": "Profession",
+    "@profession": {
+        "description": "Profession"
+    },
+    "industry": "Industry",
+    "@industry": {
+        "description": "Industry"
+    },
+    "socialMediaLinks": "Social Media Links",
+    "@socialMediaLinks": {
+        "description": "Social Media Links"
+    },
+    "coursesBy": "Courses by",
+    "@coursesBy": {
+        "description": "Courses by"
+    },
+    "upNext": "Up Next",
+    "@upNext": {
+        "description": "Up Next"
+    },
+    "whatAreYouLookingFor": "What are you Looking For?",
+    "@whatAreYouLookingFor": {
+        "description": "What are you Looking For?"
+    },
+    "search": "Search",
+    "@search": {
+        "description": "Search"
+    },
+    "searching": "Searching",
+    "@searching": {
+        "description": "Searching"
+    },
+    "noResult": "No Result",
+    "@noResult": {
+        "description": "No Result"
+    },
+    "resultsFound": " results found",
+    "@resultsFound": {
+        "description": " results found"
+    },
+    "searchBtn": "Search",
+    "@searchBtn": {
+        "description": "Search"
+    },
+    "thereIsNoResult": "There is no result for ",
+    "@thereIsNoResult": {
+        "description": "There is no result for "
+    },
+    "pleaseTryAgain": "please try again.",
+    "@pleaseTryAgain": {
+        "description": "please try again."
+    },
+    "couldntDisplaySearch": "Couldn't display your Search",
+    "@couldntDisplaySearch": {
+        "description": "Couldn't display your Search"
+    },
+    "tryAgain": "Please Try again",
+    "@tryAgain": {
+        "description": "Please Try again"
+    },
+    "course": "'s Course'",
+    "@course": {
+        "description": "'s Course"
+    },
+    "saved": "Saved",
+    "@saved": {
+        "description": "Saved"
+    },
+    "accountSetting": "Account Setting",
+    "@accountSetting": {
+        "description": "Account Setting"
+    },
+    "yourProfile": "Your Profile",
+    "@yourProfile": {
+        "description": "Your Profile"
+    },
+    "editAndViewProfileInfo": "Edit and View Profile Info",
+    "@editAndViewProfileInfo": {
+        "description": "Edit and View Profile Info"
+    },
+    "achievements": "Achievements",
+    "@achievements": {
+        "description": "Achievements"
+    },
+    "badgesCompletedCourses": "Badges | Completed Courses",
+    "@badgesCompletedCourses": {
+        "description": "Badges | Completed Courses"
+    },
+    "language": "Language",
+    "@language": {
+        "description": "Language"
+    },
+    "languages": "Languages",
+    "@languages": {
+        "description": "Languages"
+    },
+    "amharic": "Amharic",
+    "@amharic": {
+        "description": "Amharic"
+    },
+    "getInTouch": "Get In Touch",
+    "@getInTouch": {
+        "description": "Get In Touch"
+    },
+    "contactSupport": "Contact Support",
+    "@contactSupport": {
+        "description": "Contact Support"
+    },
+    "contact": "Contact",
+    "@contact": {
+        "description": "Contact"
+    },
+    "support": "Support",
+    "@support": {
+        "description": "Support"
+    },
+    "feedback": "Feedback",
+    "@feedback": {
+        "description": "Feedback"
+    },
+    "aboutUs": "About Us",
+    "@aboutUs": {
+        "description": "About Us"
+    },
+    "about": "About",
+    "@about": {
+        "description": "About"
+    },
+    "aboutQenan": "About Qenan",
+    "@aboutQenan": {
+        "description": "About Qenan"
+    },
+    "privacyPolicyAbout": "Privacy Policy",
+    "@privacyPolicyAbout": {
+        "description": "Privacy Policy"
+    },
+    "privacy": "Privacy",
+    "@privacy": {
+        "description": "Privacy"
+    },
+    "policy": "Policy",
+    "@policy": {
+        "description": "Policy"
+    },
+    "termsAndConditionsAbout": "Terms And Conditions",
+    "@termsAndConditionsAbout": {
+        "description": "Terms And Conditions"
+    },
+    "termsAnd": "Terms And",
+    "@termsAnd": {
+        "description": "Terms And"
+    },
+    "conditions": "Conditions",
+    "@conditions": {
+        "description": "Conditions"
+    },
+    "logOut": "Log out",
+    "@logOut": {
+        "description": "Log out"
+    },
+    "areYouSureYouWantToLogOut": "Are you sure you want to log out?",
+    "@areYouSureYouWantToLogOut": {
+        "description": "Are you sure you want to log out?"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Cancel"
+    },
+    "signingOut": "Signing Out",
+    "@signingOut": {
+        "description": "Signing Out"
+    },
+    "signOut": "Sign Out",
+    "@signOut": {
+        "description": "Sign Out"
+    },
+    "editProfile": "Edit Profile",
+    "@editProfile": {
+        "description": "Edit Profile"
+    },
+    "edit": "Edit",
+    "@edit": {
+        "description": "Edit"
+    },
+    "editProfilePicture": "Edit Profile Picture",
+    "@editProfilePicture": {
+        "description": "Edit Profile Picture"
+    },
+    "changePassword": "Change Password",
+    "@changePassword": {
+        "description": "Change Password"
+    },
+    "change": "Change",
+    "@change": {
+        "description": "Change"
+    },
+    "chgPassword": "Password",
+    "@chgPassword": {
+        "description": "Password"
+    },
+    "done": "Done",
+    "@done": {
+        "description": "Done"
+    },
+    "currentPassword": "Current Password",
+    "@currentPassword": {
+        "description": "Current Password"
+    },
+    "pleaseGiveUsYourFeedback": "Please give us your feedback. The responsible team will get back to you.",
+    "@pleaseGiveUsYourFeedback": {
+        "description": "Please give us your feedback. The responsible team will get back to you."
+    },
+    "feedbackSubmitted": "Feedback Submitted Successfully!",
+    "@feedbackSubmitted": {
+        "description": "Feedback Submitted Successfully!"
+    },
+    "enterFeedback": "Please enter your feedback before you click submit",
+    "@enterFeedback": {
+        "description": "Please enter your feedback before you click submit"
+    },
+    "pleaseSelectCategory": "Please select a category before submitting",
+    "@pleaseSelectCategory": {
+        "description": "Please select a category before submitting"
+    },
+    "submittingFeedback": "Submitting your feedback",
+    "@submittingFeedback": {
+        "description": "Submitting your feedback"
+    },
+    "selectCategory": "Select Category",
+    "@selectCategory": {
+        "description": "Select Category"
+    },
+    "message": "Message",
+    "@message": {
+        "description": "Message"
+    },
+    "submit": "Submit",
+    "@submit": {
+        "description": "Submit"
+    }
+    
+}
